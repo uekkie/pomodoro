@@ -34,6 +34,7 @@ export default function Home() {
       {
         id: crypto.randomUUID(),
         title: data.title,
+        completed: false,
       },
     ])
     reset()
