@@ -1,2 +1,3 @@
-- react-timer-hook
+- [react-timer-hook](https://www.npmjs.com/package/react-timer-hook)
 - https://howlerjs.com/
+- https://www.npmjs.com/package/use-local-storage-state
