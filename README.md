@@ -2,3 +2,4 @@
 - https://howlerjs.com/
 - https://www.npmjs.com/package/use-local-storage-state
 - https://ui.shadcn.com/docs/components/form
+- Icon https://lucide.dev/
